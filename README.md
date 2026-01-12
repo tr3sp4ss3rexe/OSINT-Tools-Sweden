@@ -1,8 +1,10 @@
 # OSINT-Tools-Sweden
-<img src="LINK-TO-THE-FLAG.PNG" alt="COUNTRY-NAME_FLAG"/>
-A list of OSINT resources and tools that may be useful to you when conducting investigations related to Sweden. Arranged for [OSINT For Countries V2.0](https://github.com/paulpogoda/OSINT-for-countries-V2.0)
+<img src="Flag_of_Swedenpng.png" alt="COUNTRY-NAME_FLAG"/>
+A list of OSINT resources and tools that may be useful to you when conducting investigations related to Sweden. 
 
-**Last Updated:** DATE 
+Arranged for [OSINT For Countries V2.0](https://github.com/paulpogoda/OSINT-for-countries-V2.0)
+
+**Last Updated:** 12th Jan 2026
 
 ## Table of contents:
  - [Open Data portals](#open-data-portals)
