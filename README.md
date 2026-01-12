@@ -59,7 +59,7 @@ Arranged for [OSINT For Countries V2.0](https://github.com/paulpogoda/OSINT-for-
 
 ## Legal Disclaimer
 
-This repository is for educational and legitimate investigative purposes only. Users are responsible for:
+This repository is for educational and legitimate investigative purposes only and is not intended to facilitate surveillance or harassment of individuals. Users are responsible for:
 - Complying with all applicable laws and regulations
 - Respecting terms of service for all databases and tools
 - Using information ethically and responsibly
